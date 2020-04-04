@@ -1,0 +1,5 @@
+tqdm
+pytube3
+unidecode
+prettytable
+requests
